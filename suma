@@ -1,0 +1,16 @@
+real suma, numero1, numero2
+
+inicio
+
+escriba "ingrese el primer numero de la suma: "
+llamar nueva_linea
+lea numero1
+llamar nueva_linea
+escriba "ingrese el segundo numero de la suma: "
+llamar nueva_linea
+lea numero2
+
+suma<-numero1+numero2
+escriba "su resultado es: ",suma
+
+fin
